@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## "We didn't start the fire, It was always burning " - - Billy Joel
+## "We didn't start the fire, It was always burning " -- Billy Joel
 
 <!--
 **adailycanof/adailycanof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
