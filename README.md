@@ -46,6 +46,8 @@ CV and current project work below
    - I collect/Play/Sell TCG such as MTG and Pokemon
    - I'm Dyslexic
 
+  🎮 I’m currently playing ...
+
 <!--
 **adailycanof/adailycanof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
