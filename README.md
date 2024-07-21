@@ -1,6 +1,6 @@
 # _"We didn't start the fire, It was always burning " -- Billy Joel_
 
- Simon Hill -- @adailycanof
+ Simon Hill -- @adailycanof - restarting my gitrepo 21/07/2024
 <div id="badges" align="center">
   <a href="mailto:simon.hill@adailycanof.co.uk">
     <img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff" alt="Mail Badge"/>
