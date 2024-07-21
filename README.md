@@ -28,7 +28,7 @@ I'm interested in various topics, so I'm developing various side projects in my 
 CV and current project work below
 
 - [Repository for Curriculum Vitae](https://github.com/adailycanof/CV)
-- [Repository for Automated Terraform Cloud workspaces](https://github.com/adailycanof/CV)
+- [Repository for Automated Terraform Cloud workspaces](https://github.com/adailycanof/terraform-github-actions)
 
 #
   🔭 I’m currently working on ...
