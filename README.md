@@ -17,7 +17,7 @@
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
-👋Hello, I'm Simon Hill. I'm currently working as a DevOps engineer at a Macro HedgeFund in London. I'm working on migrating and supporting a cloud move into Amazon Web Services by using automation to build a zero-touch environment. Looking more from the infra side than Dev.
+👋Hello, I'm Simon Hill. I'm currently working as a DevOps engineer at a macro HedgeFund in London. I'm working on migrating and supporting a cloud move into Amazon Web Services by using automation to build a zero-touch environment. Looking more from the infra side than Dev.
 
 I'm interested in various topics, so I'm developing various side projects in my spare time.
 
