@@ -35,6 +35,8 @@ CV and current project work below
   
 
   🌱 I’m currently learning ...
+  https://www.boot.dev/courses/learn-linux
+  The Learn Linux course on Boot.dev is a hands-on, beginner-friendly program designed to help developers master the Linux command line and essential Unix-like systems skills. It’s particularly valuable for backend developers and anyone looking to automate tasks or manage development environments more efficiently.
 
 
   👯 I’m looking to collaborate on ...
